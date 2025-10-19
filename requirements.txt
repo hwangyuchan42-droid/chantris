@@ -3,4 +3,3 @@ gunicorn
 pygame
 
 numpy
-math

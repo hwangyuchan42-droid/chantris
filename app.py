@@ -1,7 +1,3 @@
-import pygame
-import random
-import numpy as np
-import math
 
 # --- 기본 설정
 width = 780

@@ -1,2 +1,6 @@
 flask
 gunicorn
+pygame
+random
+numpy as np
+math

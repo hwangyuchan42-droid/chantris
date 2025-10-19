@@ -1,4 +1,4 @@
-
+import math,random
 # --- 기본 설정
 width = 780
 height = 610

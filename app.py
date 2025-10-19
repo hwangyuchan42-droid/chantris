@@ -1,4 +1,5 @@
 import math,random
+import pygame
 # --- 기본 설정
 width = 780
 height = 610

@@ -1,5 +1,12 @@
 import math,random
+import os
 import pygame
+
+# 헤드리스 모드 설정 (dummy video + audio)
+os.environ["SDL_VIDEODRIVER"] = "dummy"
+os.environ["SDL_AUDIODRIVER"] = "dummy"
+
+pygame.init()
 # --- 기본 설정
 width = 780
 height = 610

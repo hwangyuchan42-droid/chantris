@@ -1,6 +1,6 @@
 flask
 gunicorn
 pygame
-random
+
 numpy
 math

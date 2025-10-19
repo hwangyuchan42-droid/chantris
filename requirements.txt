@@ -2,7 +2,4 @@ flask
 gunicorn
 pygame
 
-random
-
-math
 numpy

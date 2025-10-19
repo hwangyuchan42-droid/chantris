@@ -1,6 +1,7 @@
 import math,random
 import os
 import pygame
+import numpy as np
 
 # 헤드리스 모드 설정 (dummy video + audio)
 os.environ["SDL_VIDEODRIVER"] = "dummy"
